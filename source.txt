@@ -1,0 +1,29 @@
+int main(int a){
+int b;
+b=1;
+int sum1;
+sum=0;
+int sum2;
+sum2=0;
+for(b;b<9;b=b+1){
+    if(b<5){
+	sum1=sum1+b; 
+    end}else{
+	sum2=sum2+b;
+    end}
+end}
+
+print(sum1);
+print(sum2);
+
+int m;
+m=9;
+
+while(m>1){
+print(m);
+m=m-1;
+end}
+end}
+
+ni(ni){ni;i=m;ni;i=m;ni;i=m;o(i;i<m;i=i+m){f(i<m){i=i+i;e}l{i=i+i;e}e}p(i);p(i);ni;i=m;w(i>m){p(i);i=i-m;e}e}#
+10011001202010130300014040000020209020201000020500303020000040402000000030000400150509000501000050050501000000
